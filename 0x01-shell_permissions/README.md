@@ -1,1 +1,1 @@
-script that changes the group owner to school for the file hello
+script that sets the permission to the file hello
